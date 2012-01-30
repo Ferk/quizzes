@@ -1,0 +1,12 @@
+These are some data files and the corresponding index to be used with
+the quiz command from bsd-games.
+
+I use them as a flashcard kind of application for practising german
+vocabulary, etc.
+
+To run them just call the quiz command with -i parameter. The index
+uses relative paths, so you should be in the directory for it to work.
+
+    quiz -i index
+
+
