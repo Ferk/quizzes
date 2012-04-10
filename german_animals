@@ -1,0 +1,21 @@
+{das }Tier::animal
+{der }Vogel::bird
+{das }Säugetier::mammal
+{der }Fisch::fish
+{das }Reptil::reptile
+{der }Pfau::peacock
+{das }Schwein::pig
+{das }Huhn::chicken
+{das }Meerschweinchen::guinea pig
+{der }Stier:{die }Kuh:bull|cow
+{der }Hund::(dog|hound)
+{die }Katze::(cat|tabby)
+{die }Eidechse::lizard
+{die }Schlange::snake
+{die }Löwe::lion
+{der }Pinguin::penguin
+{der }Hamster::hamster
+{die }Ente::duck
+{das }Pferd:Pferde:horse
+{das }Ross::steed|horse
+{der }Elefant::elephant

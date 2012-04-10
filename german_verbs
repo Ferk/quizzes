@@ -1,89 +1,283 @@
-anfangen:fing an:angefangen:begin
+
 ankommen:kam an:ist angekommen:arrive
-anrufen:rief an:angerufen:call up
-backen:backte:gebacken:bake
-befehlen:befahl:befohlen:command
-beginnen:begann:begonnen:begin
-beißen:biss:gebissen:bite
-bekommen:bekam:bekommen:get|receive
-bergen:barg:geborgen:salvage
-bersten:barst:geborsten:burst
-betrügen:betrog:betrogen:deceive
-biegen:bog:gebogen:bend
-bieten:bot:geboten:offer
-binden:band:gebunden:tie|bind
-bitten:bat:gebeten:request
-blasen:blies:geblasen:blow
-bleiben:blieb:ist geblieben:stay
-bleichen:blich:geblichen:bleach
-braten:briet:gebraten:roast
-brechen:brach:gebrochen:break
-brennen:brannte:gebrannt:burn
-bringen:brachte:gebracht:bring
-denken:dachte:gedacht:think
-dreschen:drosch:gedroschen:thresh
-dringen:drang:gedrungen:force
-dürfen:durfte:gedurft:may
-empfangen:empfing:empfangen:receive
-empfehlen:empfahl:empfohlen:recommend
-erfinden:erfand:erfunden:invent
-erlöschen:erlosch:erloschen:extinguish
-erschallen:erscholl:erschollen:echo|sound
-erschrecken:erschrak:erschrocken:scare
-essen:aß:gegessen:eat
-fahren:fuhr:ist gefahren:travel
-fallen:fiel:ist gefallen:fall
-fangen:fing:gefangen:catch
-fechten:focht:gefochten:fence
-finden:fand:gefunden:find
+befehlen:befahl:hat befohlen:command
+beginnen:begann:hat begonnen:begin
+bekommen:bekam:hat bekommen:get|receive
+bergen:barg:hat geborgen:salvage
+bersten:barst:hat geborsten:burst
+binden:band:hat gebunden:tie|bind
+bitten:bat:hat gebeten:request
+brechen:brach:hat gebrochen:break
+empfehlen:empfahl:hat empfohlen:recommend
+erfinden:erfand:hat erfunden:invent
+dringen:drang:hat gedrungen:force
+finden:fand:hat gefunden:find
+fressen:fraß:hat gefressen:gorge
+gebären:gebar:hat geboren:bear
+geben:gab:hat gegeben:give
+gelingen:gelang:ist gelungen:succeed
+gelten:galt:hat gegolten:be valid
+genesen:genas:hat genesen:recover
+geschehen:geschah:ist geschehen:happen
+gewinnen:gewann:hat gewonnen:win
+helfen:half:hat geholfen:help
+klingen:klang:hat geklungen:ring
+kommen:kam:ist gekommen:come
+lesen:las:hat gelesen:read
+liegen:lag:hat gelegen:lie|recline
+messen:maß:hat gemessen:measure
+misslingen:misslang:hat misslungen:fail
+erschrecken:erschrak:hat erschrocken:scare
+essen:aß:hat gegessen:eat
+nehmen:nahm:hat genommen:take
+nennen:nannte:hat genannt:name
+rennen:rannte:ist gerannt:run
+ringen:rang:hat gerungen:ring
+rinnen:rann:ist geronnen:fow
+schelten:schalt:hat gescholten:scold
+schlingen:schlang:hat geschlungen:noose
+schrecken:schrak/schreckte:hat geschreckt/geschrocken:horrify
+schwimmen:schwamm:ist geschwommen:swim
+schwinden:schwand:ist geschwunden:dwindle|swoon|wane
+verschwinden:verschwand:ist geverschwunden:disappear
+schwingen:schwang:hat geschwungen:swing
+sehen:sah:hat gesehen:see
+sein:war:ist gewesen:be
+senden:sandte:hat gesandt:send|broadcast{ (when weak form)}
+singen:sang:hat gesungen:sing
+sinken:sank:ist gesunken:sink
+sitzen:saß:hat gesessen:be sitting
+spinnen:spann:hat gesponnen:spin
+sprechen:sprach:hat gesprochen:speak
+springen:sprang:ist gesprungen:jump
+stechen:stach:hat gestochen:stick
+stehen:stand:hat gestanden:stand
+stehlen:stahl:hat gestohlen:steal
+sterben:starb:ist gestorben:morir
+stinken:stank:hat gestunken:stink
+treffen:traf:hat getroffen:meet
+trinken:trank:hat getrunken:drink
+tun:tat:hat getan:do
+überwinden:überwand:hat überwunden:vanquish|overcome
+verderben:verdarb:hat verdorben:spoil|ruin
+vergessen:vergaß:hat vergessen:forget
+wenden:wandte:hat gewandt:turn
+{sich }werben{ an}:warb:hat geworben:appeal{ to}
+werfen:warf:hat geworfen:fling|throw|cast
+winden:wand:hat gewunden:wreathe|wriggle
+wringen:wrang:hat gewrungen:wring
+zwingen:zwang:hat gezwungen:oblige|force
+
+betrügen:betrog:hat betrogen:deceive
+biegen:bog:hat gebogen:bend
+bieten:bot:hat geboten:offer
+dreschen:drosch:hat gedroschen:thresh
+heben:hob:hat gehoben:lift|raise
+erlöschen:erlosch:hat erloschen:extinguish
+erschallen:erscholl:hat erschollen:echo|sound
 fliegen:flog:ist geflogen:fly
 fliehen:floh:ist geflohen:flee
 fließen:floss:ist geflossen:flow
-fressen:fraß:gefressen:gorge
-frieren:fror:gefroren:freeze
-frohlocken:frohlockte:frohlockt:rejoice
-gären:gor:gegoren:ferment
-gebären:gebar:geboren:bear
-geben:gab:gegeben:give
-gedeihen:gedieh:ist gediehen:flourish
-gefallen:gefiel:gefallen:be pleasing|like
-gehen:ging:ist gegangen:go
-gelingen:gelang:ist gelungen:succeed
-gelten:galt:gegolten:be valid
-genesen:genas:genesen:recover
-genießen:genoß:genossen:enjoy
-geschehen:geschah:ist geschehen:happen
-gewinnen:gewann:gewonnen:win
-gießen:goß:gegossen:pour
-gleichen:glich:geglichen:resemble
-gleiten:glitt:ist geglitten:glide|slide
+fechten:focht:hat gefochten:fence
+frieren:fror:hat gefroren:freeze|be cold
+gären:gor:hat gegoren:ferment
+genießen:genoß:hat genossen:enjoy
+gießen:goß:hat gegossen:pour
 glimmen:glomm|glimmte:ist geglommen|hat geglimmt:glow|smoulder
-graben:grub:gegraben:dig
-greifen:griff:gegriffen:grasp
-haben:hatte:gehabt:have
-halten:hielt:gehalten:hold
-hängen:hing:gehangen:hang
-hauen:haute:gehauen:hew|hit
-heben:hob:gehoben:lift
-heißen:hieß:geheißen:be [called|named]
-helfen:half:geholfen:help
-kennen:kannte:gekannt:know
-klingen:klang:geklungen:ring
-kneifen:kniff:gekniffen:pinch
-kommen:kam:ist gekommen:come
-können:konnte:gekonnt:can
 kriechen:kroch:ist gekrochen:crawl
-laden:lud:geladen:load
-lassen:ließ:gelassen:let|allow
+lügen:log:hat gelogen:lie
+
+riechen:roch:hat gerochen:smell
+quellen:quoll|quellte:hat gequollen|hat gequellt:well|?
+saufen:soff:hat gesoffen:booze|swing
+saugen:sog|saugte:hat gesogen|hat gesaugt:suck
+schießen:schoss:hat geschossen:close
+schließen:schloss:hat geschlossen:shut|close
+schmelzen:schmolz:hat geschmolzen:melt
+schwellen:schwoll:ist geschwollen:swell|rise
+sieden:sott|siedete:hat gesotten:boil
+sprießen:spross:hat gesprossen:sprout
+stieben:stob:ist gestoben:?
+verdrießen:verdross:hat verdrossen:?
+verlieren:verlor:hat verloren:lose|be doomed
+weben:wob/webte:hat gewoben/gewebt:weave
+wiegen:wog|wiegte:hat gewogen|gewiegt:weight
+ziehen:zog:hat gezogen:pull
+
+blasen:blies:hat geblasen:blow
+bleiben:blieb:ist geblieben:stay
+bleichen:blich:hat geblichen:bleach
+braten:briet:hat gebraten:roast|cook
+anrufen:rief an:hat angerufen:call up
+beißen:biss:hat gebissen:bite
+empfangen:empfing:hat empfangen:receive
+fallen:fiel:ist gefallen:fall
+fangen:fing:hat gefangen:catch
+anfangen:fing an:hat angefangen:begin
+gedeihen:gedieh:ist gediehen:flourish
+gefallen:gefiel:hat gefallen:be pleasing|like
+gehen:ging:ist gegangen:go
+gleichen:glich:hat geglichen:resemble
+gleiten:glitt:ist geglitten:glide|slide
+greifen:griff:hat gegriffen:grasp
+heißen:hieß:hat geheißen:be [called|named]
+halten:hielt:hat gehalten:hold
+hängen:hing:hat gehangen:hang
+kneifen:kniff:hat gekniffen:pinch
+lassen:ließ:hat gelassen:let|allow
 laufen:lief:ist gelaufen:run
-leiden:litt:gelitten:suffer
-leihen:lieh:geliehen:lend
-lesen:las:gelesen:read
-liegen:lag:gelegen:lie|recline
-lügen:log:gelogen:lie
-mahlen:mahlte:gemahlen:grind
-meiden:mied:gemieden:avoid
-messen:maß:gemessen:measure
-misslingen:misslang:misslungen:fail
-mögen:mochte:gemocht:like
-müssen:musste:gemusst:must
+leiden:litt:hat gelitten:suffer
+leihen:lieh:hat geliehen:lend
+meiden:mied:hat gemieden:avoid
+
+pfeifen:pfiff:hat gepfiffen:whistle
+preisen:pries:hat gepriesen:praise|bless
+raten:riet:hat geraten:guess|advise
+reiben:rieb:hat gerieben:rub
+reißen:riss:hat gerissen:rip
+reiten:ritt:ist geritten:ride{ an animal}
+rufen:rief:hat gerufen:call
+scheiden:schied:hat geschieden|ist geshieden:divide|separate
+scheinen:schien:hat geschienen:appear|seem
+scheißen:schiss:hat geschissen:shit
+schlafen:schlief:hat geschlafen:sleep
+schleichen:schlich:ist geschlichen:sneak
+schleifen:schliff|schleifte:hat geschliffen|hat geschleift:grind
+schleißen:schliß:hat geschlissen:?
+schmeißen:schmiss:hat geschmissen:plonk
+schneiden:schnitt:hat geschnitten:cut|slice|bite
+schreiben:schrieb:hat geschrieben:write
+schreien:schrie:hat geschrien:shout|screech|scream|yell
+schreiten:schritt:ist geschritten:tread|stride
+schweigen:schwieg:hat geschwiegen:be silent
+speien:spie:hat gespien:spit
+steigen:stieg:ist gestiegen:increase|climb
+stoßen:stieß:hat gestoßen:poke|knock|push
+streichen:strich:hat gestrichen:cancel|discard
+streiten:stritt:hat gestritten:argue|dispute
+treiben:trieb:hat getrieben:move|drive
+triefen:triefte/troff:hat getrieft:sop|?
+verschleißen:verschliss:hat verschlissen:wear out
+verzeihen:verzieh:hat verziehen:forgive
+weichen:wich:hat gewichen:yield
+weisen:wies:hat gewiesen:?
+zeihen:zieh:hat geziehen:?
+
+backen:backte:hat gebacken:bake
+brennen:brannte:hat gebrannt:burn
+bringen:brachte:hat gebracht:bring
+denken:dachte:hat gedacht:think
+dürfen:durfte:hat gedurft:be allowed{ to}
+frohlocken:frohlockte:hat frohlockt:rejoice
+hauen:haute:hat gehauen:hew|hit
+kennen:kannte:hat gekannt:know
+haben:hatte:hat gehabt:have
+können:konnte:hat gekonnt:can
+mahlen:mahlte:hat gemahlen:grind
+mögen:mochte:hat gemocht:like
+müssen:musste:hat gemusst:must
+
+salzen:salzte:hat gesalzen/gesalzt:salt
+sollen:sollte:hat gesollt|inf. sollen:shall
+spalten:spaltete:hat gespalten/gespaltet:chop|split
+trügen:trog:hat getrogen:be deceptive
+wollen:wollte:hat gewollt|inf. sollen:want
+
+fahren:fuhr:ist gefahren:drive|be driven{ to}
+graben:grub:hat gegraben:dig
+laden:lud:hat geladen:load
+
+schaffen:schuf:hat geschaffen:create
+schlagen:schlug:hat geschlagen:beat
+schwören:schwur|schwor:hat geschworen:swear
+tragen:trug:hat getragen:carry|wear
+wachsen:wuchs:ist gewachsen:grow
+waschsen:wusch:hat gewaschsen:wash
+werden:wurde:ist geworden|inf. worden:will
+wissen:wusste:hat gewusst:know
+
+
+verbrechen:::matar
+klauen:::robar
+verbotten:::forbid
+verkaufen:::sell
+versuchen:::try
+besuchen:::visit
+drücken:::push
+beeilen:::hasten
+besiegen:::defeat|conquer
+gewohnen:::get used to
+wiederholen:::repeat
+hoffen:::hope
+laufen:::run|walk
+befreien:::set free
+segeln:::sail
+sichern::gesichert:secure|assure
+zerstören::zerstört:destroy
+tauschen:::exchange
+antworten:::answer
+arbeiten:::work
+atmen:::breath
+befehlen:::command|order
+begegen:::
+beobachten:::observar|watch|spy
+beweisen:::demostrate|prove
+bilden:::build
+bitten:::ask|request
+einladen:::invite
+empfehlen:::recommend|suggest
+erinnern sich:::remember
+fahren:::drive|be drived
+fallen:::fall
+finden:::find
+fragen::gefragt:ask
+geben:::give
+geschehen:::happen
+halten:::stop
+heizen:::heat
+helfen:::help
+klingeln:::ring|jingle|tinkle|ting|knock
+kommen:::come
+lächeln:::simper
+lassen:::assume
+leben:::live|exist
+lernen:::live
+lesen:::read
+machen:::make
+mieten:::rent|hire
+öffnen:::open
+rechnen:::calculate
+reisen:::travel
+sagen::gesagt:say
+sammeln:::collect
+gehen:::go
+setzen:::sit
+treten:::kick
+betreten:::enter|step inside|accede
+trocknen:::dry
+verbessern:::improve|correct
+warten:::wait
+waschen:::wash
+zeichnen:::draw|chart
+teilen:::split|share
+rutschen:::slide
+versenken:::sink
+lecken:::lick
+küssen:::kiss
+stöhnen:::moan
+absteigen:::climb down|swing down
+versprachen:::promise
+umschlingen::umschlungen:entangle|entwine
+wecken::geweckt:awake
+graben:::dig
+weinen:::cry|weep
+trennen:::disconnect|be apart
+quälen:::agonize|tantalize
+vershenken:::give away
+schenken:::present|give|donate
+entfernen:::remove|take out
+
+
+
+
+
