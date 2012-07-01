@@ -1,13 +1,17 @@
+# -*- conf-colon -*-
+#
+# quiz:de{utsch}{_adj}:en{glish}
+#
 gut:good
 schlecht:bad
-viel:a lot of|abundant
+viel:a lot{ of}|many|much|abundant
 wenig:few|little|sparse
 hohe:high
 bekannt:famous|known
 rar:rare
 allein:alone
 nett:nice
-komisch:comical
+komisch:comical|funny
 herrlich:funny
 langweilig:boring
 herzlich:cordial|hearty
@@ -15,7 +19,7 @@ höflich:polite
 wichtig:important
 alt:old
 neu:new
-grosß:big
+groß:big
 klein:small
 schnell:fast
 langsam:slow
@@ -28,7 +32,6 @@ rein:pure|clean
 tief:deep
 kurz:short
 lang:long
-schwach:fragile
 nass:wet
 heiß:boiling|hot
 warm:hot
@@ -38,10 +41,11 @@ schrecklich:terrible
 schwerig:hard|complex
 einfach:easy|simple
 gemütlich:comfortable
-frei:free (as in freedom)
+frei:free{ (as in freedom)}
 billig:cheap
+günstig:economic
 teuer:expensive
 gleich:equal|same
 stark:strong
-schwach:weak
+schwach:weak|fragile
 

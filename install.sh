@@ -9,27 +9,32 @@
 PREFIX=/usr/share/bsdgames/quiz/
 INDEX=index
 
-destindex="$PREFIX$INDEX"
-[ -w "$destindex" ] || {
+index="$PREFIX$INDEX"
+[ -w "$index" ] || {
     echo "Quiz index file not found or no writting permissions (are you not root?)"
     exit 1
 }
 
-for line in $(cat "$INDEX")
+for file in *.quiz
 do
-    # skip lines to invalid files
-    file=${line%%:*}
-    [ -e "$file" ] || continue
+    # get the "quiz:" comment line with the quiz description
+    desc=$(grep "$file" -m1 -e "^[ ]*#[ ]*quiz:")
+    [ -z "$desc" ] && continue # skip if not found
 
-    # copy quiz file
+    # format the description properly
+    desc=${desc/*quiz:/$file:}
+    echo "Installing: $desc"
+
+    # copy quiz file, removing comments (lines starting with #)
     destfile="${PREFIX}${file#./}"
-    cp -fv "$file" "$destfile"
-    
+    destfile="${destfile%.quiz}"
+    grep "$file" -ve "^[ ]*#" > "$destfile"
+
     # update quiz index
-    if grep "$destindex" -qe "$destfile:"; then
-	cat "$destindex" | sed "s%${destfile}:.*%${line/$file/$destfile}%" | sponge "$destindex"
+    if grep "$index" -qe "^$destfile"; then
+	cat "$index" | sed "s%${destfile}:.*%${desc/$file/$destfile}%" | sponge "$index"
     else
-	echo "${line/$file/$destfile}" >> "$destindex"
+	echo "${desc/$file/$destfile}" >> "$index"
     fi
 
 done

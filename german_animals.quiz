@@ -1,3 +1,8 @@
+# -*- conf-colon -*-
+#
+#quiz:de{utsch}{_male}{_animal}:de{utsch}{_female}{_animal}:animal
+#
+
 {das }Tier::animal
 {der }Vogel::bird
 {das }Säugetier::mammal

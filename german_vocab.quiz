@@ -1,3 +1,7 @@
+# -*- conf-colon -*-
+#
+# quiz:de{utsch}:en{glish}
+#
 genug:enough
 das sollte reichen:eso debe bastar
 lahme Ente:lame duck
@@ -25,7 +29,7 @@ niedergebrannt:?
 Boot:boat
 zufällig:por casualidad
 -seufz-:-sigh-
-scheinen:to appear|seem (du scheinst eine gute Kämpferin zu sein)
+scheinen:to appear|seem{ (du scheinst eine gute Kämpferin zu sein)}
 beiden:both
 jemand:someone
 vergifteten:poisoned
