@@ -1,14 +1,11 @@
-die Angst:Ängste:fear|anxiety
 die Wolke:Wolken:cloud
 die Einheit:Einheiten:unit
-die Einwohner::inhabitant{s}
-der Bauer:Bauern:farmer|pawn|peasant
-der Bauernhof:Bauernhöfe:farm
 der Geruch:smell|odor
 das Gerücht:Gerüchte:rumor
+
 der Krieg:Kriege:war|warfare
-die Verbrecher::criminal{s}|thug
-die Knochen::bone{s}
+die Verbrecher::criminal{s}|thug{s}
+
 die Heilung:?:cure
 die Fähigkeit:Fähigkeiten:ability|capability|feature
 der Angriff:Angriffe:assault|attack
@@ -16,18 +13,32 @@ die Verteidigung:Verteidigungen:defense|plea
 der Fleck:Flecken:stain|blot
 der Stein:Steine:stone
 die Träne:Tränen:tear
+
 das Volk::people|folks
+die Einwohner::inhabitant{s}
+der Fluß:?:river
+der Bauer:Bauern:farmer|pawn|peasant
+der Bauernhof:Bauernhöfe:farm
+
 der Reiter:?:rider
 der Ritt:Ritte:ride
 die Schlüssel::key{s}|clefs
 das Schloß:lock
-die Tür::door
 die Haut:?:skin
 das Nadelöhr:?:eye
-der Fluß:?:river
 der Kuss:?:kiss
 der Nabel::bellybutton|navel
 die Nässe::wetness
 der Schloß:?:lap
+
+die Angst:Ängste:fear|anxiety
 der Grab:Gräber:grave
+die Knochen::bone{s}
+
+der Tisch:?:table
+die Tür:?:door
+das Zimmer:?:room
+
+die Bar:?:bar
+das Kneipe:?:pub
 
