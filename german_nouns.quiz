@@ -10,7 +10,7 @@ das Gerücht:Gerüchte:rumor
 der Krieg:Kriege:war|warfare
 die Verbrecher::criminal{s}|thug{s}
 
-die Heilung:?:cure
+die Heilung:X:cure
 die Fähigkeit:Fähigkeiten:ability|capability|feature
 der Angriff:Angriffe:assault|attack
 die Verteidigung:Verteidigungen:defense|plea
@@ -20,29 +20,110 @@ die Träne:Tränen:tear
 
 das Volk::people|folks
 die Einwohner::inhabitant{s}
-der Fluß:?:river
+der Fluß:X:river
 der Bauer:Bauern:farmer|pawn|peasant
 der Bauernhof:Bauernhöfe:farm
 
-der Reiter:?:rider
+der Reiter:X:rider
 der Ritt:Ritte:ride
 die Schlüssel::key{s}|clefs
 das Schloß:lock
-die Haut:?:skin
-das Nadelöhr:?:eye
-der Kuss:?:kiss
+die Haut:X:skin
+das Nadelöhr:X:eye
+der Kuss:X:kiss
 der Nabel::bellybutton|navel
 die Nässe::wetness
-der Schloß:?:lap
+der Schloß:X:lap
 
 die Angst:Ängste:fear|anxiety
 der Grab:Gräber:grave
 die Knochen::bone{s}
 
-der Tisch:?:table
-die Tür:?:door
-das Zimmer:?:room
+der Tisch:X:table
+die Tür:X:door
+das Zimmer:X:room
 
-die Bar:?:bar
-das Kneipe:?:pub
+die Bar:X:bar
+das Kneipe:X:pub
 
+das Fach:Fächern:subject
+die Schule:X:school
+
+das Saxofon:X:saxofon
+der Kontrabass:X:contrabajo
+die Gitarre:X:guitar
+das Klavier:X:piano
+die Mundharmonika:X:harmonic
+die Orgel:X:organo
+die Posaune:X:
+das Schlagzeug:X:drums
+die Geige:X:violin
+die Trompete:X:trompet
+
+die Absicht:X:intent|purpose
+die Fähigkeit:X:ability
+die Notwendigkeit:X:necessity
+der Auftrag:X:order
+der Wunsch:X:wish
+die Erlaubnis:X:permission|allowance
+die Vorliebe:X:predilection|preference
+
+die CD:X:CD
+der CD-Spieler:X:CD-player
+# die Kassette:X:Cassete
+# der Kassettenspieler:X:Cassette player
+der Kopfhörer:X:earphones
+das Radio:X:radio
+der Verstärker:X:amplifier
+der Lautsprecher:X:speaker
+die Fernbedienung:X:{remote }control
+
+das Geschenk:X:present|gift
+das Geschäft:X:shop
+das Gesicht:Gesichter:face
+die Geschichte:X:history|story
+
+die Gebäude::building{s}
+
+der Erfolg:X:success
+der Untergang:X:downfall
+
+der Film:X:film|movie
+die Bibel:X:Bible
+die Ermordung:X:murder
+
+der Schauspieler:X:actor
+
+der Schrank:X:locker
+
+die Zeit:Zeiten:time
+die Leute::people{ (plural)}
+
+#alles??
+der Bank::bank
+da Geld::money|gold
+da Konto::account
+die Rechnung::bill
+
+der Angestellter:X:clerk|employee
+das Trinkgeld:X:tip
+
+die Tastatur:X:keyboard
+die Taste::key
+das Kabel::cable
+die Steckdose::plug socket
+die Stecker::plug connector
+das DVD-Laufwerk::DVD-player
+der Anschluss::socket{ for connection}
+der Stuhl::chair
+die Maus::mouse
+der Schreibtisch::desktop
+der Bildschrim::screen
+
+der Stau::traffic jam
+das Glück::{good }luck|fortune
+das Pech::bad luck|pitch
+
+die Rätsel::enigma{s}|riddle{s}
+
+die Opfer::victim{s}

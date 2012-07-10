@@ -14,7 +14,7 @@
 {das }Meerschweinchen::guinea pig
 {der }Stier:{die }Kuh:bull|cow
 {der }Hund::(dog|hound)
-{die }Katze::(cat|tabby)
+{der }Kater:{die }Katze:(cat|tabby)
 {die }Eidechse::lizard
 {die }Schlange::snake
 {die }Löwe::lion
@@ -24,3 +24,5 @@
 {das }Pferd:Pferde:horse
 {das }Ross::steed|horse
 {der }Elefant::elephant
+{die }Qualle::Jellyufish
+{die }Spinne::spider

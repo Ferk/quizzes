@@ -7,7 +7,8 @@ schlecht:bad
 viel:a lot{ of}|many|much|abundant
 wenig:few|little|sparse
 hohe:high
-bekannt:famous|known
+bekannt:known
+berühmt:famous
 rar:rare
 allein:alone
 nett:nice
@@ -19,6 +20,7 @@ höflich:polite
 wichtig:important
 alt:old
 neu:new
+jung:young
 groß:big
 klein:small
 schnell:fast
@@ -48,4 +50,16 @@ teuer:expensive
 gleich:equal|same
 stark:strong
 schwach:weak|fragile
-
+klassisch:classic
+fest:tight|tough
+spannend:tense|exciting
+mutig:brave|courageous
+feig:coward|craven
+klug:sagacious
+leicht:light
+hässlich:horrible
+dünn:thin
+dick:fat
+pünktlich:puntual
+giftig:poisonous
+wirksam:powerful|effective
